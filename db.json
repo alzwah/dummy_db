@@ -23,11 +23,7 @@
       "content": "kflskjflsjfasljaslk",
       "date_created": "2020-07-04T13:33:03.969Z",
       "date_update": "2020-07-07T13:33:03.969Z",
-      "tags" : [{
-        "person": "",
-        "album": "",
-        "series": ""
-      }]
+      "tags" : {}
     }, 
     {
       "id": 5,
@@ -35,11 +31,8 @@
       "content": "",
       "date_created": "2020-08-04T13:33:03.969Z",
       "date_update": "2020-10-09T13:33:03.969Z",
-      "tags" : [{
-        "person": "sam riegel",
-        "album": "",
-        "series": ""
-      }]
+      "tags" : {}
+      
     }, 
   ]
 }
