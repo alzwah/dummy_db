@@ -1,38 +1,36 @@
 {
-  "todo" : [
-    {
-      "id": 1,
-      "title": "first todo",
-      "due_date": "2019-07-04T13:33:03.969Z"
-    },
-    {
-      "id": 2,
-      "title": "second todo",
-      "due_date": "2019-09-04T13:33:03.969Z"
-    },
-    {
-      "id": 3,
-      "title": "third todo",
-      "due_date": "2020-07-04T13:33:03.969Z"
-    }
-  ],
-  "notes": [
-    {
-      "id": 4,
-      "title": "note",
-      "content": "kflskjflsjfasljaslk",
-      "date_created": "2020-07-04T13:33:03.969Z",
-      "date_update": "2020-07-07T13:33:03.969Z",
-      "tags" : {}
-    }, 
-    {
-      "id": 5,
-      "title": "note2",
-      "content": "",
-      "date_created": "2020-08-04T13:33:03.969Z",
-      "date_update": "2020-10-09T13:33:03.969Z",
-      "tags" : {}
-      
-    }
-  ]
+	"todo": [{
+			"id": 1,
+			"title": "first todo",
+			"due_date": "2019-07-04T13:33:03.969Z"
+		},
+		{
+			"id": 2,
+			"title": "second todo",
+			"due_date": "2019-09-04T13:33:03.969Z"
+		},
+		{
+			"id": 3,
+			"title": "third todo",
+			"due_date": "2020-07-04T13:33:03.969Z"
+		}
+	],
+	"notes": [{
+			"id": 4,
+			"title": "note",
+			"content": "kflskjflsjfasljaslk",
+			"date_created": "2020-07-04T13:33:03.969Z",
+			"date_update": "2020-07-07T13:33:03.969Z",
+			"tags": {}
+		},
+		{
+			"id": 5,
+			"title": "note2",
+			"content": "",
+			"date_created": "2020-08-04T13:33:03.969Z",
+			"date_update": "2020-10-09T13:33:03.969Z",
+			"tags": {}
+
+		}
+	]
 }
