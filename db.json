@@ -15,7 +15,8 @@
 			"due_date": "2020-07-04T13:33:03.969Z"
 		}
 	],
-	"notes": [{
+	"notes": [
+		{
 			"id": 4,
 			"title": "note",
 			"content": "kflskjflsjfasljaslk",
